@@ -1,0 +1,46 @@
+.up{
+    width: 500px;
+    padding-left: 500px;
+}
+
+.first_name{
+    float:left;
+}
+
+.last_name{
+    float:right;
+}
+
+.radio_left{
+    float:left;
+}
+
+.radio_right{
+    float:right;
+    margin-right: 360px;
+}
+
+.half{
+    width: 230px;
+}
+
+.area{
+    width: 100%;
+    height: 200px;
+}
+
+.seventy{
+width: 400px;
+}
+
+.thirty{
+width: 70px;
+}
+
+.bottom{
+    background-color: blue;
+    margin-left: 400px;
+    margin-right: 300px;
+    width: 700px;
+    height: 200px;
+}
