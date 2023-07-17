@@ -1,0 +1,56 @@
+.left{
+    float: left;
+    width: 70%;
+    margin-left: 80px;
+}
+
+.right{
+    float: right;
+    width: 14%;
+}
+
+.left_left{
+    float: left;
+}
+
+.left_right{
+    float: right;
+}
+
+.left_right_left{
+    float: left;
+    padding-right: 20px;
+}
+
+.left_right_right{
+    float: right;
+}
+
+.pic{
+    width: 120px;
+    height: 260px;
+    background-color: aqua;
+    border: 1px solid black;
+}
+
+input{
+    width: 300px;
+}
+
+button{
+    width: 300px;
+    text-align: left;
+}
+
+.main{
+    height: 300px;
+}
+
+.down{
+    
+    background-color: grey;
+    height: 500px;
+    width: 2000px;
+    margin-right: 400px;
+   
+}
